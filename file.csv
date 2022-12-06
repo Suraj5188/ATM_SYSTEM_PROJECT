@@ -1,0 +1,5 @@
+cardno,Name,account number,Balance,A/C Type,PIN,access
+121,ram,1234567890,30000,current,1984,BLOCK
+122,umesh,123456,60000,saving,1234,UNBLOCK
+123,kiran,3333232,55000,current,1290,UNBLOCK
+124,promod,587236723,60000,saving,3737,UNBLOCK
